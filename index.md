@@ -41,4 +41,4 @@ In the following pages you will be presented with the components and rules of th
 Make use of the buttons at the end of each page to slow travel to the next or use the left sidebar to fast travel through the story and the game rules of this world.
 After you feed yourself with the information, continue to "Get Started" for the basics.
 
-VampireWars.io Team
+VampireWars.io Team 
