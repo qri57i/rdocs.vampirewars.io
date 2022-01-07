@@ -1,5 +1,6 @@
 ---
 order: 9999
+label: The Story
 ---
 
 

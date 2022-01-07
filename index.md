@@ -1,8 +1,9 @@
 ---
-order: 10000
+order: 10001
+label: Vision
 ---
 
-# Welcome to Vampire Wars
+# Welcome
 
 The Metaverse needs to be built, and it won’t build itself. It needs builders to build stories, platforms, and communities around it. And then interconnect it all. 
 
