@@ -5,7 +5,7 @@ branding:
   title: Project Name
   label: Docs
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Homepagae
+  link: https://vampirewars.io/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
