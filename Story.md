@@ -37,7 +37,6 @@ For centuries, humans captured, killed and imprisoned vampires. The Ancient ones
 
 On April 12, 1910, in a small city in Japan, during a great earthquake, one of the Runes was discovered while people searched for survivors. Little did they know what it was and they removed it from the ground. Runes deactivated. Vampire immortality halted and all of them died by old age in the following years. Except for the Ancients that fell asleep in the underground prisons. 
 
-
 Vampires were forgotten, only the myths and stories remained. 
 
 
