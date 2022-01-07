@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: rdocs.vampirewars.io
+url: /rdocs.vampirewars.io/
 branding:
   title: Project Name
   label: Docs
