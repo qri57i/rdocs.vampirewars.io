@@ -2,10 +2,10 @@ input: .
 output: .retype
 url: https://qri57i.github.io/rdocs.vampirewars.io/
 branding:
-  title: Project Name
+  title: Vampire Wars
   label: Docs
 links:
-- text: Homepagae
+- text: Main Site
   link: https://vampirewars.io/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
