@@ -1,6 +1,8 @@
 ---
 order: 9978
-label: Connect to Game
 ---
 
-## ha
+# Connect to VampireWars.io
+!!!
+To be Updated
+!!!
