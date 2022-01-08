@@ -7,17 +7,17 @@ label: Vision
 
 The Metaverse needs to be built, and it won’t build itself. It needs builders to build stories, platforms, and communities around it. And then interconnect it all. 
 
-We like to consider ourselves builders. Trial & Error Builders, since the Internet, Gaming industry, and the Economy are changing so fast that what we now believe to be the future, will change radically in the next 2 years. So, welcome to the Metaverse, come and build with us!  
+We like to consider ourselves builders. <span style="color:#c23d25">**Trial & Error Builders**</span>, since the Internet, Gaming industry, and the Economy are changing so fast that what we now believe to be the future, will change radically in the next 2 years. So, welcome to the Metaverse, come and build with us!  
 
-VampireWars is an idea we brought to life so people can have another platform, or game, to spend time and earn real money while consuming a great piece of entertainment.  
+<span style="color:#c23d25">**VampireWars**</span> is an idea we brought to life so people can have a gamewhere they spend time and earn real money while consuming a great piece of entertainment.  
 
-Our vision and strong belief regarding the Metaverse and Crypto Gaming is that a game or a platform joining this space has a true chance to succeed if it follows the rules of a DeFi ecosystem. So if you look at a DEX or an entire ecosystem and you want to build a game or a platform and call it “part of the Metaverse”, you should follow the decentralization principles. 
+<span style="color:#c23d25">**Our vision**</span> and strong belief regarding the Metaverse and Crypto Gaming is that a game or a platform joining this space has a true chance to succeed if it follows the rules of a DeFi ecosystem. So, if you look at a DEX or an entire ecosystem and you want to build a game or a platform and call it “part of the Metaverse”, you should follow the decentralization principles. 
 
 We believe the future belongs to smart contract based protocols, decentralized and autonomous systems & processes. And with this in mind, we created a game where you don’t need to understand Liquidity Pools or AMMs, you don’t need to understand how staking works or what minting is. 
 
 You invest, play and earn, or you can play and earn even without investing, just to test the mechanics, see if it suits you. 
 
-And you play a Vampire game, where Vampires are awaken, you can control them, send them to hunt, earn HBLO (Human Blood, which is also the in-game cryptocurrency), find items on the map, or even better, convert one of your victims in a vampire that you mint and sell on the marketplace for new players to join the game too. 
+And you play a <span style="color:#c23d25">**Vampire game**</span>, where Vampires are awaken, you can control them, send them to hunt, earn HBLO (Human Blood, which is also the in-game cryptocurrency), find items on the map, or even better, convert one of your victims in a vampire that you mint and sell on the marketplace for new players to join the game too. 
 
 ### What to expect
 - Multiple <span style="color:#c23d25">**NFT Sales**</span> of the limited <span style="color:#c23d25">**Vampire Character**</span> Supply - We plan to have 3 rounds of NFT Sales
@@ -33,7 +33,7 @@ And you play a Vampire game, where Vampires are awaken, you can control them, se
 
 Vampire Wars is a broswer based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
 
-The economy of the game is driven by the HBLO token (Human blood). It can be earned by hunting, fighting players, staking.  
+The economy of the game is driven by the **HBLO** token (Human blood). It can be earned by hunting, fighting players, or staking.  
 
 In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benift from it.
 
