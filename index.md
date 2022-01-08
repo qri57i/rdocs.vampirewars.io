@@ -3,7 +3,7 @@ order: 10001
 label: Vision
 ---
 
-# Welcome
+# <span style="color:#c23d25"> Welcome</span>
 
 The Metaverse needs to be built, and it won’t build itself. It needs builders to build stories, platforms, and communities around it. And then interconnect it all. 
 
@@ -20,13 +20,13 @@ You invest, play and earn, or you can play and earn even without investing, just
 And you play a Vampire game, where Vampires are awaken, you can control them, send them to hunt, earn HBLO (Human Blood, which is also the in-game cryptocurrency), find items on the map, or even better, convert one of your victims in a vampire that you mint and sell on the marketplace for new players to join the game too. 
 
 ### What to expect
-- Multiple **NFT Sales** of the limited **Vampire Character** Supply - We plan to have 3 rounds of NFT Sales
-- Multiple **NFT Sales** of the limited **Runes** Supply - Runes owners are the most powerful players in the game. There are only 666 Runes. 
-- **Token Launching** with everything a token launch has: Very Private sale, Private sale, Public sale, Community drops
-- A **comprehensive tokenomics** to reassure you that we plan for the long term.
-- An **open to suggestions and debates team**. We need your help (and money) to build this, so on top of profit sharing we need your constant feedback and advice
-- A **new type of game**, where you will use the world’s map, as it is, to place your crypts and expand your territory in real world locations. This is also where you will send your vampires to hunt
-- Since the game is synced with the real world, expect **real world events** to have an impact in the game (Ex. A flood, tsunami or a pandemic will have direct impact on the gameplay outcomes)
+- Multiple <span style="color:#c23d25">**NFT Sales**</span> of the limited <span style="color:#c23d25">**Vampire Character**</span> Supply - We plan to have 3 rounds of NFT Sales
+- Multiple <span style="color:#c23d25">**NFT Sales**</span> of the limited <span style="color:#c23d25">**Runes**</span> Supply - Runes owners are the most powerful players in the game. There are only 666 Runes. 
+- <span style="color:#c23d25">**Token Launching**</span> with everything a token launch has: Very Private sale, Private sale, Public sale, Community drops
+- A <span style="color:#c23d25">**comprehensive tokenomics**</span> to reassure you that we plan for the long term.
+- An <span style="color:#c23d25">**open to suggestions and debates team**</span>. We need your help (and money) to build this, so on top of profit sharing we need your constant feedback and advice
+- A <span style="color:#c23d25">**new type of game**</span>, where you will use the world’s map, as it is, to place your crypts and expand your territory in real world locations. This is also where you will send your vampires to hunt
+- Since the game is synced with the real world, expect <span style="color:#c23d25">**real world events**</span> to have an impact in the game (Ex. A flood, tsunami or a pandemic will have direct impact on the gameplay outcomes)
 
 
 ### Prepare
