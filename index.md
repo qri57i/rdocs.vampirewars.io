@@ -19,7 +19,7 @@ You invest, play and earn, or you can play and earn even without investing, just
 
 And you play a Vampire game, where Vampires are awaken, you can control them, send them to hunt, earn HBLO (Human Blood, which is also the in-game cryptocurrency), find items on the map, or even better, convert one of your victims in a vampire that you mint and sell on the marketplace for new players to join the game too. 
 
-## What to expect:
+### What to expect
 - Multiple **NFT Sales** of the limited **Vampire Character** Supply - We plan to have 3 rounds of NFT Sales
 - Multiple **NFT Sales** of the limited **Runes** Supply - Runes owners are the most powerful players in the game. There are only 666 Runes. 
 - **Token Launching** with everything a token launch has: Very Private sale, Private sale, Public sale, Community drops
@@ -29,7 +29,7 @@ And you play a Vampire game, where Vampires are awaken, you can control them, se
 - Since the game is synced with the real world, expect **real world events** to have an impact in the game (Ex. A flood, tsunami or a pandemic will have direct impact on the gameplay outcomes)
 
 
-## Prepare
+### Prepare
 
 Vampire Wars is a broswer based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
 
@@ -37,7 +37,9 @@ The economy of the game is driven by the HBLO token (Human blood). It can be ear
 
 In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benift from it.
 
-### Get ready to immerse yourself into the mystical world of the vampires.
+### Get ready 
+
+Get ready to immerse yourself into the mystical world of the vampires.
 
 Make use of the buttons at the end of each page to slow travel to the next or use the left sidebar to fast travel through the story and the game rules of this world.
 After you feed yourself with the information, continue to "Get Started" for the basics.
