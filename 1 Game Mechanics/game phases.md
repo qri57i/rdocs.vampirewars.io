@@ -19,5 +19,29 @@ What to expect:
 
 ## Clans and Collaboration Phase
 
+The Clans will be introduced in a second phase, afte the Vampires start converting victims to more Vampires after the secondary market sales cool down and the HBLO liquidity stabilizes. We expect high HBLO volatility after the release, which is normal for all token launches. 
+
+In this phase, planned in late August 2022, you will be able to create Clans, create alliances with other players, build teritorry control strategies based on crypts and land owned and benefit of the opportunities of building micro-communities, collaborating on expansion and grow your clan & vampires. 
+
+What to expect:
+- **Create your own clan** and invite other players to join
+- **Decide on teritorry expansion** by voting where the clan should expand. This will have an impact in the price for land in that area (cheaper for your clan, more expensive for the others)
+- **Clan teritorry will enhance skills**, meaning that clan's vampires are fastern the teritorry, hunt better, and discover more items and artifacts
+- **Clan treasury** will make your MERCs produce more HBLO at a lower stake
+- **Vampire sharing** between clan members will be possible, so no Vampire will rest while you are afk.
+
 
 ## PvP Arena and Wars Phase
+
+The endgame. 
+
+Planned in Q1 - Q2 2023, the PvP gameplay layer will added. We plan to use WEBGL technology and expand to other platforms, Mobile being the favorite in the team he moment. 
+
+The main mechanics in this phase (and the first iteration) will be the combat between Vampires that meet while hunting. This will have major effects in HBLO looting durring map exploration. Important wealth transfers will happen since heavy players will combat other heavy players and blood will be spilled.
+
+Arenas and Wars will also be released, where you and your clan will be able to enter in massive confrontations with other players and clans. Blood will be spilled, Items and Artifacts will be lost, territory shifts will transform the Vampire world. 
+
+What to expect:
+- **Encountering another Vampire on the maap** will trigger instant combat. Depending on your Vampire's level, mounted items and artefacts you can win or lose. HBLO will be at stake, impermanent and magical items will be at stake, a lot can happen in a hunting encounter. Map combats will be on **auto fight**
+- **Arenas** will be accessible on the map. Fighting will be PVP. 
+- **Wars** can be declared, with HBLO, teritorry and any assets at stake.  
