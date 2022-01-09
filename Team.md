@@ -15,7 +15,7 @@ Who we are:
 - Mihály Szolnoki 
 - Adrien Stadler
 - Alessandro Bonvini 
-- Teo
+- Matteo Lussana
 - Cristian Tutu
 - Catalin Rimaru
 - TBD adivisors
