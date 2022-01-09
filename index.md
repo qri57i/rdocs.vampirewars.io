@@ -9,11 +9,11 @@ The Metaverse needs to be built, and it won’t build itself. It needs builders 
 
 We like to consider ourselves builders. <span style="color:#c23d25">**Trial & Error Builders**</span>, since the Internet, Gaming industry, and the Economy are changing so fast that what we now believe to be the future, will change radically in the next 2 years. So, welcome to the Metaverse, come and build with us!  
 
-<span style="color:#c23d25">**VampireWars**</span> is an idea we brought to life so people can have a gamewhere they spend time and earn real money while consuming a great piece of entertainment.  
+<span style="color:#c23d25">**VampireWars**</span> is an idea we brought to life so people can have a game where they spend time and earn real money while consuming a great piece of entertainment.  
 
 <span style="color:#c23d25">**Our vision**</span> and strong belief regarding the Metaverse and Crypto Gaming is that a game or a platform joining this space has a true chance to succeed if it follows the rules of a DeFi ecosystem. So, if you look at a DEX or an entire ecosystem and you want to build a game or a platform and call it “part of the Metaverse”, you should follow the decentralization principles. 
 
-We believe the future belongs to smart contract based protocols, decentralized and autonomous systems & processes. And with this in mind, we created a game where you don’t need to understand Liquidity Pools or AMMs, you don’t need to understand how staking works or what minting is. 
+We believe the future belongs to smart contract-based protocols, decentralized and autonomous systems & processes. And with this in mind, we created a game where you don’t need to understand Liquidity Pools or AMMs, you don’t need to understand how staking works or what minting is. 
 
 You invest, play and earn, or you can play and earn even without investing, just to test the mechanics, see if it suits you. 
 
@@ -28,14 +28,13 @@ And you play a <span style="color:#c23d25">**Vampire game**</span>, where Vampir
 - A <span style="color:#c23d25">**new type of game**</span>, where you will use the world’s map, as it is, to place your crypts and expand your territory in real world locations. This is also where you will send your vampires to hunt
 - Since the game is synced with the real world, expect <span style="color:#c23d25">**real world events**</span> to have an impact in the game (Ex. A flood, tsunami or a pandemic will have direct impact on the gameplay outcomes)
 
-
 ### Prepare
 
-Vampire Wars is a broswer based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
+Vampire Wars is a browser based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
 
 The economy of the game is driven by the **HBLO** token (Human blood). It can be earned by hunting, fighting players, or staking.  
 
-In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benift from it.
+In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benefit from it.
 
 ### Get ready 
 
@@ -45,3 +44,5 @@ Make use of the buttons at the end of each page to slow travel to the next or us
 After you feed yourself with the information, continue to "Get Started" for the basics.
 
 VampireWars.io Team 
+
+
