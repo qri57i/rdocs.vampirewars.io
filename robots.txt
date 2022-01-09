@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qri57i.github.io/rdocs.vampirewars.io/sitemap.xml.gz
+Sitemap: http://docs.vampirewars.io/sitemap.xml.gz
