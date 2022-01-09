@@ -1,9 +1,21 @@
 ---
 order: 10001
-label: Vision
+label: Welcome
 ---
 
 # <span style="color:#c23d25"> Welcome</span>
+
+
+### Prepare
+
+Vampire Wars is a browser based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
+
+The economy of the game is driven by the **HBLO** token (Human blood). It can be earned by hunting, fighting players, or staking.  
+
+In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benefit from it.
+
+
+### Vision
 
 The Metaverse needs to be built, and it won’t build itself. It needs builders to build stories, platforms, and communities around it. And then interconnect it all. 
 
@@ -19,6 +31,7 @@ You invest, play and earn, or you can play and earn even without investing, just
 
 And you play a <span style="color:#c23d25">**Vampire game**</span>, where Vampires are awaken, you can control them, send them to hunt, earn HBLO (Human Blood, which is also the in-game cryptocurrency), find items on the map, or even better, convert one of your victims in a vampire that you mint and sell on the marketplace for new players to join the game too. 
 
+
 ### What to expect
 - Multiple <span style="color:#c23d25">**NFT Sales**</span> of the limited <span style="color:#c23d25">**Vampire Character**</span> Supply - We plan to have 3 rounds of NFT Sales
 - Multiple <span style="color:#c23d25">**NFT Sales**</span> of the limited <span style="color:#c23d25">**Runes**</span> Supply - Runes owners are the most powerful players in the game. There are only 666 Runes. 
@@ -28,13 +41,7 @@ And you play a <span style="color:#c23d25">**Vampire game**</span>, where Vampir
 - A <span style="color:#c23d25">**new type of game**</span>, where you will use the world’s map, as it is, to place your crypts and expand your territory in real world locations. This is also where you will send your vampires to hunt
 - Since the game is synced with the real world, expect <span style="color:#c23d25">**real world events**</span> to have an impact in the game (Ex. A flood, tsunami or a pandemic will have direct impact on the gameplay outcomes)
 
-### Prepare
 
-Vampire Wars is a browser based game built on Elrond Blockchain where the players own Vampires and Crypts as Digital Assets. The action takes place on a 1 to 1 Earth size Metaverse where players will have to roam the land for human blood, items and artifacts. The players will earn experience, they will grow the level of their vampires and they will fight for territory.
-
-The economy of the game is driven by the **HBLO** token (Human blood). It can be earned by hunting, fighting players, or staking.  
-
-In the following pages you will be presented with the components and rules of the game. You will understand the mechanism of the economy as well as how you can benefit from it.
 
 ### Get ready 
 
