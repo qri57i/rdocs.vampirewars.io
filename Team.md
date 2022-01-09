@@ -11,11 +11,11 @@ Our goal is to deliver a seameless experience of interacing wih a DeFi ecosystem
 
 Who we are:
 
-Ozan Erdi - znozan.artstation.com
-Mihály Szolnoki 
-Adrien Stadler
-Alessandro 
-Teo
-Cristian Tutu
-Catalin Rimaru
-TBD adivisors
+- Ozan Erdi - znozan.artstation.com
+- Mihály Szolnoki 
+- Adrien Stadler
+- Alessandro Bonvini 
+- Teo
+- Cristian Tutu
+- Catalin Rimaru
+- TBD adivisors
