@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: https://docs.vampirewars.io
+cname: docs.vampirewars.io
 branding:
   title: Vampire Wars
   label: Docs
